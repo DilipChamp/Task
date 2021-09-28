@@ -31,6 +31,7 @@
                 android:textSize="@dimen/contact_name" />
         </LinearLayout>
         <LinearLayout
+            android:layout_marginTop="5dp"
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -49,6 +50,7 @@
                 android:textSize="@dimen/contact_name" />
         </LinearLayout>
         <LinearLayout
+            android:layout_marginTop="5dp"
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
